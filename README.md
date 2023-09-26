@@ -4,7 +4,7 @@ It works on my machine
 
 I'm John - Software Engineer | Endurance Athlete 
 
-WHen I am not outdoor testing my lungs I love working on projects that test my skills and force me to think about the problem in different ways. If you like any of my projects, or have any questions feel free email me: jonathanbrodie91@gmail.com
+When I am not outdoor testing my lungs I love working on projects that test my skills and force me to think about the problem in different ways. If you like any of my projects, or have any questions feel free email me: jonathanbrodie91@gmail.com
 
 I would also love to talk shop about any projects you may have, any help requests I can assist with, or to just talk code. 
 
