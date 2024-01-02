@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-It works on my machine 
-
-I'm John - Software Engineer | Endurance Athlete 
+I'm John - Software Engineer | Athlete 
 
 When I am not outdoor testing my lungs I love working on projects that test my skills and force me to think about the problem in different ways. If you like any of my projects, or have any questions feel free email me: jonathanbrodie91@gmail.com
 
